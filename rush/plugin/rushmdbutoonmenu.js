@@ -12,7 +12,7 @@ const alive = async (m, Matrix) => {
   const cmd = m.body.startsWith(prefix) ? m.body.slice(prefix.length).toLowerCase() : '';
     if (['menu'].includes(cmd)) {
 
-  const uptimeMessage = `*SUVI TECH Youtube*
+  const uptimeMessage = `*peneti md*
 _________________________________________
 Suvi tech youtube subcribe now😃
 _________________________________________
@@ -70,7 +70,7 @@ _________________________________________
             text: uptimeMessage
           }),
           footer: proto.Message.InteractiveMessage.Footer.create({
-            text: "© Powered By 𝚁𝚄𝚂𝙷 𝙼𝙳"
+            text: "© Powered By 𝙿𝙴𝙽𝙴𝚃𝙸 𝙼𝙳"
           }),
           header: proto.Message.InteractiveMessage.Header.create({
             title: "",
@@ -87,7 +87,7 @@ _________________________________________
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                   newsletterJid: '911111111',
-                  newsletterName: "RUSH",
+                  newsletterName: "peneti",
                   serverMessageId: 143
                 }
               }
