@@ -87,14 +87,14 @@ const tiktokCommand = async (m, Matrix) => {
         {
           "name": "quick_reply",
           "buttonParamsJson": JSON.stringify({
-            display_text: "✨RUSHMD VIDEO",
+            display_text: "✨PENETI VIDEO",
             id: `media_video_${searchIndex}`
           })
         },
         {
           "name": "quick_reply",
           "buttonParamsJson": JSON.stringify({
-            display_text: "🎵 RUSH",
+            display_text: "🎵 MUSIC",
             id: `media_audio_${searchIndex}`
           })
         }
@@ -109,10 +109,10 @@ const tiktokCommand = async (m, Matrix) => {
             },
             interactiveMessage: proto.Message.InteractiveMessage.create({
               body: proto.Message.InteractiveMessage.Body.create({
-                text: `𝗥𝗨𝗦𝗛-𝗠𝗗 TikTok Download\n\nTitle: ${currentResult.data.title}\nAuthor: ${currentResult.data.author.nickname}\nViews: ${currentResult.data.view}\nDuration: ${currentResult.data.duration}s\n`
+                text: `𝗣𝗘𝗡𝗘𝗧𝗜-𝗠𝗗 TikTok Download\n\nTitle: ${currentResult.data.title}\nAuthor: ${currentResult.data.author.nickname}\nViews: ${currentResult.data.view}\nDuration: ${currentResult.data.duration}s\n`
               }),
               footer: proto.Message.InteractiveMessage.Footer.create({
-                text: "® Powered By 𝗥𝗨𝗦𝗛-𝗠𝗗"
+                text: "® Powered By 𝗣𝗘𝗡𝗘𝗧𝗜-𝗠𝗗"
               }),
               header: proto.Message.InteractiveMessage.Header.create({
                  ...(await prepareWAMessageMedia({ image: { url: `https://telegra.ph/file/e1fd8689e69a7baa4920d.jpg` } }, { upload: Matrix.waUploadToServer })),
