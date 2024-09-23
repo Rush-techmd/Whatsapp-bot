@@ -1,9 +1,9 @@
 ---
 
-# RUSH MD
+# 𝙿𝙴𝙽𝙴𝚃𝙸 MD
 
 <p align="center">
-  <a href="https://github.com/Rush-techmd"><img src="http://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=false&lines=Rush-MD+MultiDevice;Developed+by+Rush;Give+star+and+forks+this+Repo+🌟" alt="RushReadme"></a>
+  <a href="https://github.com/Rush-techmd"><img src="http://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=false&lines=peneti-MD+MultiDevice;Developed+by+Rush;Give+star+and+forks+this+Repo+🌟" alt="RushReadme"></a>
 </p>
 
 ## ❤️‍🩹 Getting Started
@@ -14,7 +14,7 @@ To get started, follow these steps:
 
 Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-<a href='https://github.com/Rush-techmd/Rush-md/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
+<a href='https://github.com/Rush-techmd/Whatsapp-bot//fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
 ### 2. Get Session ID AND PAIR
 
