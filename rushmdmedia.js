@@ -17,8 +17,6 @@
 
 
 
-butoon ගන්නෙපා 😂
-
-
+don,t get butoon
 
 
